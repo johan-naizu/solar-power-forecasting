@@ -1,1 +1,1 @@
-# solar-power-forecasting
+# Solar Power Generation Forecasting System
